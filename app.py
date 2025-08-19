@@ -133,7 +133,6 @@ class VocabularyCard:
                 line-height: 1.6;
             ">{self.word.usage}</p>
             <p style="color: #6B5D56; margin: 12px 0; font-size: 1.1em; line-height: 1.5;">
-                    <strong style="color: #8B7B6B; font-weight: 500;">例句:</strong> 
                     <span style="color: #7A6E65; font-style: italic;">{self.word.sentence}</span>
                 </p>
         </div>

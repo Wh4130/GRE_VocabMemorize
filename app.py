@@ -110,7 +110,7 @@ class VocabularyCard:
             "></div>
             <h1 style="
                 color: #8B7B6B; 
-                font-size: 3em; 
+                font-size: 2.5em; 
                 margin-bottom: 20px;
                 font-weight: 300;
                 letter-spacing: 2px;
